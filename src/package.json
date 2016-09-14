@@ -1,0 +1,26 @@
+{
+  "name": "alexa-echo-app",
+  "version": "0.0.1",
+  "description": "An Amazon Alexa skill that echoes what a user says back to them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmillhj/alexa-echo-app.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill"
+  ],
+  "author": "Hunter McMillen <mcmillhj+npm@gmail.com> (https://blog.hjm.im)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcmillhj/alexa-echo-app/issues"
+  },
+  "homepage": "https://github.com/mcmillhj/alexa-echo-app#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
